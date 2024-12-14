@@ -1,1 +1,1 @@
-# JavaSGU
+# OOP-SGU
