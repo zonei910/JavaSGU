@@ -260,8 +260,7 @@ class MemberList{
 }
 
 
-
-public class index{
+public class De_1_2{
     public static void main(String [] args){
        MemberList a = new MemberList();
        a.themTV();
